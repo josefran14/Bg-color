@@ -1,0 +1,20 @@
+ button{
+    background-color: skyblue;
+    color: black;
+    border-radius: 10px;
+    display: flex;
+    margin: auto;
+    align-items: center;
+    width: 100px;
+    height: 40px;
+ }
+
+ button:hover{
+    background-color: aqua;
+ }
+
+ h1{
+    display: flex;
+   justify-content: center;
+   color: black;
+ }
